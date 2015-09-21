@@ -5,3 +5,4 @@ Un piccolo script in python che permette di calcolare la media di infiniti nmeri
 * giallo: discreto
 * rosso: pessimo
 
+N.B. color_markup_string.py è una funzione che permette di colorare l'output tramite dei marker.
